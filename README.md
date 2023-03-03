@@ -1,12 +1,12 @@
 <h2 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Gaurav Mandal</h2>
 <h3 align="center">Full Stack Developer 🖥️</h3>
-<h3 align="center">I'm budding software developer from India, currently learning web development with React.js and RESTful APIs in Node.js</h3>
+<h3 align="center">I'm software developer who can build product manage it and also sell</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravmandal1p&label=Profile%20views&color=0e75b6&style=flat" alt="gauravmandal1" /> </p>
 
 - 🌱 I’m currently learning more about full-stack development.
 
-- 💬 Ask me about  Node.js, JavaScript,Python in general.
+- 💬 Ask me about  Node.js,JavaScript,Python,React in general.
 
 - 📫 How to reach me: **gauravmandal667@gmail.com**
 
