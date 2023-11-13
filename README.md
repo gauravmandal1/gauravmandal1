@@ -1,6 +1,6 @@
 <h2 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Gaurav Mandal</h2>
 <h3 align="center">Full Stack Developer 🖥️</h3>
-<h3 align="center">Entrepreneurial software developer </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravmandal1p&label=Profile%20views&color=0e75b6&style=flat" alt="gauravmandal1" /> </p>
 
